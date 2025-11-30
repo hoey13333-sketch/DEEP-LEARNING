@@ -1,0 +1,7 @@
+{
+  "name": "Deep English Lab",
+  "description": "An iOS-styled, immersive English learning platform featuring the SWG Pro method, AI-powered analysis, and a sleek, glassmorphic interface.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
